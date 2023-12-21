@@ -1,0 +1,53 @@
+[{
+    "id": 1,
+    "nom": "Lluc Ortiz",
+    "premi": "2na solista nacional de WOP",
+    "srcimg": "https://images.pexels.com/photos/159273/breakdancing-battle-life-males-159273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "alt": "Texto alternativo de la imágen",
+    "competicio": "Millor Solista de Tockin' a la competició WOP 2020"
+},
+{
+    "id": 2,
+    "nom": "Martí Llobet i Pol Lui",
+    "premi": "1er dúo al WOP",
+    "srcimg": "https://images.pexels.com/photos/13993465/pexels-photo-13993465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "alt": "Descripción de la imágen",
+    "competicio": "Millor dúo de Urban Dance a la competició WOP 2018 "
+    
+},
+{
+    "id": 3,
+    "nom": "Roque i Joan Ruiz",
+    "premi": "Finalistes de Let's Move Competition",
+    "srcimg": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2019/02/07/5a14488a-f913-4d8e-a558-05a72e6a12d4/dance-les-twins-performance",
+    "alt": "Descripción de la imágen",
+    "competicio": "3res Poppin' Dance a la Let's Move Competition"
+    
+},
+{
+    "id": 4,
+    "nom": "Gala García",
+    "premi": "1ra solista a Let's Move Competition",
+    "srcimg": "https://2.bp.blogspot.com/-nOWy9bEnM7A/WjqBRVkVN6I/AAAAAAAAAJI/irsOJZwyvykEVkeagqlKDar3K69Hy4Z7wCLcBGAs/s1600/DSC05673.JPG",
+    "alt": "Descripción de la imágen",
+    "competicio": "Millor solista de Heels a la Let's Move Competition 2022"
+    
+},
+{
+    "id": 5,
+    "nom": "Las TrixMix",
+    "premi": "3er grup petit al WOP",
+    "srcimg": "https://images.pexels.com/photos/8720149/pexels-photo-8720149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "alt": "Descripción de la imágen",
+    "competicio": "Grup petit combinat de JazzFunk a la WOP 2021"
+},
+{
+    "id": 6,
+    "nom": "Aivan Gili",
+    "premi": "Finalista de Hip Hop Competition",
+    "srcimg": "https://img.freepik.com/fotos-premium/joven-bailarin-ropa-negra-rompe-baile-luces-neon-hombre-realiza-movimiento-hip-hop_164411-5376.jpg",
+    "alt": "Descripción de la imágen",
+    "competicio": "2a posició a la Hip Hop Competititon 2023 en la categoria solista"
+}
+
+]

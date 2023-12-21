@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb_prac2"]=self["webpackChunkweb_prac2"]||[]).push([[67],{911:function(t,r,s){s.r(r),s.d(r,{default:function(){return u}});var a=function(){var t=this;t._self._c;return t._m(0)},n=[function(){var t=this,r=t._self._c;return r("div",[r("h1",{staticClass:"titol1"},[t._v("Classes")]),r("img",{staticClass:"horari",attrs:{src:s(6907),alt:"horari"}})])}],c=s(1001),i={},e=(0,c.Z)(i,a,n,!1,null,"3f8a3cca",null),u=e.exports},6907:function(t,r,s){t.exports=s.p+"img/horari2.8d194ff7.png"}}]);
+//# sourceMappingURL=Tabla.18bc7f41.js.map
